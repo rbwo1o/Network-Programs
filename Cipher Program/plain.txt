@@ -1,0 +1,6 @@
+Hello this is a test file that is displayed in plain text.
+This program will encrypt this test to display how network traffic can be encrypted.
+This program can also decrypt the cipher text by using the same key as the ecryption key.
+This can be done because XOR is commutative. Meaning a ^ b = b ^ a.
+This displays how network traffic can then be decrypted.
+This type of network based encryption is asymmetrical.
