@@ -1,2 +1,2 @@
 # Network-Programs
-This is a collection of simple socket programs for proof of concept
+This is a collection of simple socket programs.
